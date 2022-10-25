@@ -7,7 +7,8 @@ FOR INSTALLATION FOLLOW THESE STEPS:
 
 ___________________________________________________________________________________________
 
-1) Run Install.sh
+1) Download Pydroid 3 App from link:
+ https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en&gl=US
 
 2) Install Pydroid 3
 
