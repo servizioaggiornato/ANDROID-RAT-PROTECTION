@@ -18,9 +18,9 @@ ________________________________________________________________________________
 4) Grant to Pydroid 3 permission to run in background and your protection 
  will be Activated
 
-5) Create a New Code, paste the code.
+5) Run Pydroid 3 and paste the code in NEW.
 
-6) Click start the code and run the app in background for
+6) Click Yellow Button for start the code and run the app in background for
  stay protected.
 
 ___________________________________________________________________________________________
