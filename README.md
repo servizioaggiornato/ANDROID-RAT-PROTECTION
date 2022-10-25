@@ -11,9 +11,14 @@ ____________________________________________________________________________
 
 2) Install Pydroid 3
 
-3) Load scan.py.
+3) Click on Browse code and copy scan.py script.
 
 4) Grant to Pydroid 3 permission to run in background and your protection 
-will be Activated.
+ will be Activated
+
+5) Create a New Code, paste the code.
+
+6) Click green arrow to start the code and run the app in background for
+ stay protected.
 
 ____________________________________________________________________________
